@@ -5,14 +5,31 @@ html, body {
 
 }
 
+#logo {
+  width: 10%;
+  height: 60px;
+  float: left;
+  margin-top: 5px;
+  margin-left: 10px;
+
+}
+
+.header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+}
+
 div.scrollmenu {
-  background-color: lightgreen;
+  background-color: #43975F;
   overflow: hidden;
   white-space: nowrap;
   text-align: center;
   width: 100%;
   margin: 0;
   padding: 0;
+  
   
 }
 
@@ -29,7 +46,7 @@ div.scrollmenu a {
   display: inline-block;
   color: black;
   text-align: center;
-  padding: 14px;
+  
   text-decoration: none;
   font-size: 19px;
   padding: 30px;
@@ -38,6 +55,21 @@ div.scrollmenu a {
 }
 
 div.scrollmenu a:hover {
-  color: blue;
+  color: orange;
   
 }
+
+h1 {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
