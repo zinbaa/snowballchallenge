@@ -159,6 +159,13 @@ margin-right:-10px;
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
+
+  html, body {
+ height:100%;
+ padding:0;
+ margin:0;
+
+}
   .header {
     width:100%;
     height: 200px;
