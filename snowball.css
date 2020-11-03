@@ -125,15 +125,12 @@ margin-left: auto;
 margin-right: auto;
 }
 
-.img_UN {
-overflow: hidden;
-  width: 25%;
-  height: 65px;
-  float: right;
-  margin-top: -15px;
-
-}
-
+.img_footer{
+height:120px;
+widht:120px;
+float:right;
+margin-top:-28px;
+margin-right:-10px;
 }
 
 
