@@ -126,13 +126,14 @@ margin-right: auto;
 height:120px;
 width:120px;
 float:right;
-margin-top:-10px;
+margin-top:-11px;
 margin-right:-10px;
 }
 
 #footertxt {
   width: 80%;
-
+  height: 1px;
+  background-color: green;
 }
 
 
@@ -153,6 +154,7 @@ margin-right:-10px;
   .button {
     width: 10%;
   }
+
 }
 
 @media only screen and (max-width:620px) {
@@ -168,6 +170,9 @@ margin-right:-10px;
 
   #logo {
     width: 30%;
+  }
+  #infotekst {
+    width: 40%;
   }
 
   .button {
