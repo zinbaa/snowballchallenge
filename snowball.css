@@ -58,7 +58,7 @@ div.scrollmenu a:hover {
   
 }
 
-h1 {
+#overskrift_forside{
   text-align: center;
 }
 
@@ -104,6 +104,21 @@ h1 {
   
 }
 
+.overskrift_solution {
+padding-top: 10%;
+margin-left:12%
+}
+
+#infobox_solution {
+width:75%;
+margin-left: 12%;
+}
+
+#app {
+display: block;
+margin-left: auto;
+margin-right: auto;
+  }
 
 
 
