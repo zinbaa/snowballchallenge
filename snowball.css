@@ -130,6 +130,11 @@ margin-top:-10px;
 margin-right:-10px;
 }
 
+#footertxt {
+  width: 80%;
+
+}
+
 
 @media only screen and (min-width:620px) {
   /* For mobile phones: */
