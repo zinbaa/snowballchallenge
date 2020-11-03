@@ -86,6 +86,7 @@ div.scrollmenu a:hover {
 .button {
   background-color: green;
   font-family: "Poppins",sans-serif;;
+  text-align: center;
   color: black;
   text-decoration: none;
   display: block;
