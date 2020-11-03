@@ -133,8 +133,12 @@ margin-right:-10px;
 
 @media only screen and (min-width:620px) {
   /* For mobile phones: */
-  .header, .footer, #app {
+  .header, .footer {
     width:100%;
+  }
+
+  #app {
+    width: 75%;
   }
 
   #logo {
@@ -148,8 +152,13 @@ margin-right:-10px;
 
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
-  .header, .footer, #app {
+  .header, .footer {
     width:100%;
+  }
+
+  #app {
+    width: 100%;
+    height: 400px;
   }
 
   #logo {
