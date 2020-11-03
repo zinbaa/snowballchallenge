@@ -158,7 +158,7 @@ margin-right:-10px;
 
   #app {
     width: 100%;
-    height: 400px;
+    height: 300px;
   }
 
   #logo {
@@ -167,6 +167,10 @@ margin-right:-10px;
 
   .button {
     width: 18%;
+  }
+
+  .overskrift_solution {
+    padding-top: 20%;
   }
 }
 
