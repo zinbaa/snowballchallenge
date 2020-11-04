@@ -164,7 +164,9 @@ margin-right:-10px;
   }
 
   #logo {
-    width: 50%;
+    width: 30%;
+    height: 40px;
+    margin-top: 23px;
   }
   #infotekst {
     width: 80%;
