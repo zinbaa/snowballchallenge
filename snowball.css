@@ -186,12 +186,19 @@ div.scrollmenu a {
 @media only screen and (min-width: 600px) {
 
 .header {
-  padding: 20px;
   width: 80%;
 }
 
 #infotekst {
   width: 60%;
+}
+.overskrift_solution {
+padding-top: 10%;
+
+}
+
+#app {
+  height: 400px;
 }
 
 
