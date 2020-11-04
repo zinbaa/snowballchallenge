@@ -57,6 +57,8 @@ div.scrollmenu a:hover {
   
 }
 
+
+
 #overskrift_forside{
   text-align: center;
 }
@@ -186,7 +188,12 @@ div.scrollmenu a {
 @media only screen and (min-width: 600px) {
 
 .header {
+  padding-top: 10px;
   width: 80%;
+}
+.footer {
+bottom: 0;
+
 }
 
 #infotekst {
@@ -195,6 +202,10 @@ div.scrollmenu a {
 .overskrift_solution {
 padding-top: 10%;
 
+}
+
+#overskrift_forside {
+  padding-top: 10px;
 }
 
 #app {
