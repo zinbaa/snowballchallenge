@@ -88,7 +88,7 @@ div.scrollmenu a:hover {
   background-color: green;
   font-family: "Poppins",sans-serif;;
   text-align: center;
-  color: black;
+  color: white;
   text-decoration: none;
   display: block;
   width: 7%;
@@ -137,6 +137,7 @@ margin-right:-10px;
   width: 80%;
   height: 1px;
   background-color: green;
+  color:white;
 }
 
 
