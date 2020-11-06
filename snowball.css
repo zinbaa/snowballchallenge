@@ -7,7 +7,7 @@ html, body {
 
 #logo {
   width: 20%;
-  height: 55px;
+  height: auto;
   float: left;
   margin-top: 12px;
   margin-left: 10px;
@@ -176,7 +176,7 @@ div.scrollmenu a {
 
   #logo {
     width: 30%;
-    height: 40px;
+    height: auto;
     margin-top: 23px;
   }
   #infotekst {
